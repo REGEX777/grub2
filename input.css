@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+
+@theme{
+    --font-roboto: "Roboto", sans-serif;
+    --font-cinzel: "Cinzel", serif;
+
+    --color-dark: #1A1A1A;
+    --color-rust: #8B0000;
+    --color-sand: #C2B280;
+    --color-steel: #708090;
+}
